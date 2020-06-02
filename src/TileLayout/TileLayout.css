@@ -1,0 +1,10 @@
+.tiles {
+	margin: 0 auto;
+	width: 600px;
+	font-size: 0;
+}
+
+.tile {
+	display: inline-block;
+	width: calc(600px / 3);
+}
