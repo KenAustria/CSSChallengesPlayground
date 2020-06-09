@@ -1,0 +1,9 @@
+::selection {
+	background: aquamarine;
+	color: black;
+}
+
+.example::selection {
+	background: grey;
+	color: red;
+}
